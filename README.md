@@ -72,3 +72,7 @@ Python (pandas, openpyxl) · Chart.js · HTML/CSS/JS (no framework, no build ste
 ## Source
 
 Chen, D. (2019). Online Retail II [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5CG6D
+## Live Dashboard
+
+View the interactive dashboard:
+https://mahakhalaf2026.github.io/Online-Retail-Analytics/
