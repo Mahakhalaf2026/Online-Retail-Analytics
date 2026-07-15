@@ -1,0 +1,31 @@
+{
+  "raw_rows": 1067371,
+  "cancelled_rows": 19494,
+  "exact_duplicates_removed": 34335,
+  "non_positive_removed": 6019,
+  "test_codes_removed": 4183,
+  "missing_customer_id": 226868,
+  "missing_description": 0,
+  "extreme_outliers_flagged": 52247,
+  "final_clean_rows": 1003730,
+  "final_columns": [
+    "Invoice",
+    "StockCode",
+    "Description",
+    "Quantity",
+    "InvoiceDate",
+    "Price",
+    "Customer ID",
+    "Country",
+    "IsCancelled",
+    "Sales",
+    "Year",
+    "Month",
+    "MonthName",
+    "YearMonth",
+    "Weekday",
+    "Hour",
+    "Quarter",
+    "IsOutlier"
+  ]
+}
